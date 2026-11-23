@@ -29,4 +29,5 @@ renumber. Recheck this index after releases, incidents, or schema changes.
 
 ## Changelog
 
+- 2026-11-23: Added API route and database-policy implementation notes.
 - 2026-11-23: Initial Baybay Basket specification set.
