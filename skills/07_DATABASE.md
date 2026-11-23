@@ -17,3 +17,6 @@ on another client.
 Migration `v1.0.1` adds the Supabase-auth account mapping, role helper
 functions, and RLS policies for public discovery, order participants, reports,
 and administrator settings.
+
+Migration `v1.0.2` adds the default order-retention setting and a
+system-administrator-only retention function.
